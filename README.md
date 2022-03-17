@@ -1,33 +1,49 @@
 
 
-Project Name:-HelloWorld
 
-Description the project:-First Microverse project
+# Project Name:-
+
+> HelloWorld
+
+## Description the project:-First Microverse project
 
 Built With
 
-Major languages:-Html and Css
-Frameworks:-Vsc
+-Major languages:-Html and Css
 
-👤 Author1:-Yilikal Teshome
+-Frameworks:-Vsc
 
-GitHub: @Yilkal250
-Twitter: @Yilikal250
-LinkedIn: teshomeyilikal250@gmail.com
 
-🤝 Contributing
+👤 **Author1**:- **Yilikal Teshome**
+
+-GitHub: @Yilkal250(https://github.com/githubhandle)
+
+-Twitter: @Yilikal250(https://twitter.com/twitterhandle
+
+-LinkedIn: teshomeyilikal250@gmail.com (https://linkedin.com/in/linkedinhandle)
+
+
+
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page. Show your support
+Feel free to check the [issues page](../../issues/). issues page. 
 
-Give a ⭐️ if you like this project! Acknowledgments
 
-Hat tip to anyone whose code was used
-Inspiration
-etc
+## Show your support
 
-📝 License
+Give a ⭐️ if you like this project!
+
+
+
+## Acknowledgments
+
+Microverse is the best place to learn !!
+
+
+
+## 📝 License
 
 This project is MIT licensed.
 
