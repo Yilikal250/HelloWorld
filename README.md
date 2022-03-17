@@ -1,11 +1,14 @@
 
+![image](https://user-images.githubusercontent.com/97841835/158791672-064ab6fa-38c2-4fa7-93d8-df4f85a10392.png)
 
 
 # Project Name:-
 
 > HelloWorld
 
-## Description the project:-First Microverse project
+## Description the project:-
+
+> First Microverse project
 
 Built With
 
@@ -16,12 +19,9 @@ Built With
 
 👤 **Author1**:- **Yilikal Teshome**
 
--GitHub: @Yilkal250(https://github.com/githubhandle)
-
--Twitter: @Yilikal250(https://twitter.com/twitterhandle
-
--LinkedIn: teshomeyilikal250@gmail.com (https://linkedin.com/in/linkedinhandle)
-
+- GitHub: [@Yilikal250](https://github.com/githubhandle)
+- Twitter: [@@TeshomeYilikal](https://twitter.com/twitterhandle)
+- LinkedIn: [teshomeyilikal250@gmail.com](https://linkedin.com/in/linkedinhandle)
 
 
 ## 🤝 Contributing
@@ -45,5 +45,5 @@ Microverse is the best place to learn !!
 
 ## 📝 License
 
-This project is MIT licensed.
+This project is [MIT](./MIT.md) licensed.
 
